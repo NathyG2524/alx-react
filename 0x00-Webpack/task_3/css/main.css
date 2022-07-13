@@ -1,0 +1,15 @@
+button{
+    display: inline-block;
+}
+#count {
+display: inline-block;
+font-weight: bold;
+}
+#logo{
+    background: url("./../assets/download.jpeg");
+    background-repeat: none;
+    background-size: contain;
+    /* background-color: red; */
+    width:500px;
+    height:500px;
+}
