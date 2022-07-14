@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.58ebe671.css",
+    "main.js": "/alx-react/static/js/main.8cfc6041.js",
+    "static/js/787.545aecf5.chunk.js": "/alx-react/static/js/787.545aecf5.chunk.js",
+    "static/media/holbert.jpg": "/alx-react/static/media/holbert.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/index.html",
+    "main.58ebe671.css.map": "/alx-react/static/css/main.58ebe671.css.map",
+    "main.8cfc6041.js.map": "/alx-react/static/js/main.8cfc6041.js.map",
+    "787.545aecf5.chunk.js.map": "/alx-react/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ebe671.css",
+    "static/js/main.8cfc6041.js"
+  ]
+}
