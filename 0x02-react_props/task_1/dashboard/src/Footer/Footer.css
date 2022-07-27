@@ -1,0 +1,16 @@
+.App-footer {
+    background-color: white;
+    margin-left: 1%; 
+    width: 97%;
+    border-top: 3px solid red;
+    position: absolute;
+    bottom: 0%;
+  
+  }
+
+  .App-footer p {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  

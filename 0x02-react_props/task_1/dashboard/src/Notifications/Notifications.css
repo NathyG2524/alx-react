@@ -1,0 +1,11 @@
+.Notifications {
+    border: 3px dotted red;
+    padding : 10px;
+}
+[data="default"]{
+    color: rgb(4, 4, 202);
+}
+
+[data="urgent"]{
+    color: red;
+}
