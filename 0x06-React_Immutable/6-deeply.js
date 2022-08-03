@@ -9,10 +9,9 @@ Use list and map from the Immutable.js library
 */
 import { Map } from 'immutable';
 
-
 export function mergeDeeplyElements(page1, page2) {
   const page1map = Map(page1);
   const page2map = Map(page2);
 
-  return page1map.mergeDeeply(page2map);
+  return page1map.mergeDeep(page2map);
 }
