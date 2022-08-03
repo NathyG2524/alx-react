@@ -14,4 +14,6 @@ export const map = Map({
 
 // Modify the value for the index 2, to Benjamin
 // Modify the value for the index 4, to Oliver
-export const map2 = map.set('2', 'Benjamin').set('4', 'Oliver');
+export const map2 = map.withMutations((map) => {
+  map.set(2, 'Benjamin').set(4, 'Oliver');
+});
